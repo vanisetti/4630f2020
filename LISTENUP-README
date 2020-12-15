@@ -1,0 +1,95 @@
+SHORT REPORT:
+-------------------------------------------------------------------------------
+Whenever I hear about a new artist I’m not familiar with, I’m not sure where
+to go first on social media to learn more about them.  I could go to Instagram
+to see what they look like, or Twitter to see what they are posting.  Sometimes
+I might want to use YouTube to see what their most recent release was. This app
+was created to fix that problem. The overall goal of this app is to give users
+a visually appealing hub that will point them in the right direction to learn
+all about a new artist while also serving as a platform that allows easy access 
+to latest music releases. 
+
+This problem could potentially be solved through the existing music 
+streaming apps as an additional feature, however, we chose to create 
+an entirely separate app.This would allow more freedom with how we 
+choose to present our data/content while providing additional features 
+that enhance the user's expereince and potentially make it more 
+fun/engaging. If it were to be included in existing music apps, there would
+be too many things to navigate and the essence of the feature would be lost.
+We also hope to include a social media aspect to this app to make it more
+competitive and set it apart from similar apps/goals. We hope to allow users 
+to see who their friends are following and share information on a feed others 
+can see as well (either globally or just their friends). This will give people
+a motive to use the app besides just viewing information on artists. 
+
+My partner and I decided to build this app for iOS
+because we both think that Xcode is a way easier and more user-friendly IDE
+to use over android studio. Overall, we are both more familiar with Apple
+products than any others so we thought it was more appropriate to go down
+the route of iOS.
+
+
+LAUNCH INSTRUCTIONS:
+---------------------------------------------------------------------------------
+To run our app, download the zip file, decompress it and open it in Xcode
+(we have been using the newest version of xcode). Hit the “play” arrow button
+in the top left corner. Navigate to our app and open it up. The username is JV 
+and the password is JV as well.
+
+
+HOW TO USE THE SOFTWARE
+---------------------------------------------------------------------------------
+In our home screen, you will see a template with a circular scrolling view of
+icons at the top. These are the "favorites" chosen by the user which are displayed 
+at the top for easy access. When you click on the first few they will take you to 
+the designated pages for the artist.
+
+Under that is the scrolling view of the latest releases and trending information. 
+This space will act as a general area for finding out what's "in". When you click 
+on them they take you to different pages, however, they aren't very accurate as we
+haven't fully implemented the new releases page. 
+
+If you scroll further down you will see two rows of blocks that will act as different 
+categories the user can chose from- we haven't labellem them yet as we will once we 
+obtain data from the Spotify API.
+
+The next page/tab, the favorites tab, will store your favorite artists whom you
+can stay updated on. Currently, we have about 9 artist that we chose and when you 
+click on the top three you will be taken to another page which will have all the 
+information about them along with links to their social media accounts. At the moment
+it shows the icon of the artist along with three icons for their social media pages.
+
+Moving on, the notifications tab is being developed and has a list view of example 
+notifications we will be building off of. The profile tab is also under development 
+and we expand more upon our plans for other tabs/features under next steps.
+
+
+MATERIALS INLCUDED
+----------------------------------------------------------------------------------
+All the source code, images and icons are inlcuded in the Xcode project file. All, 
+you have to do is run the project. We didn't have any libraries/databases as we were 
+focusing on the UI aspect of the project for this semester. 
+
+
+NEXT STEPS
+----------------------------------------------------------------------------------
+
+We have many plans for our app as we will be working on it next semester. 
+
+We will finish the artists profile pages and have them obtain data from reliable 
+sources and link their social media accounts so when the user clicks on the icons they 
+can directly access their respective social media pages.
+
+We will create an interactive tab where users can share and view which artists other 
+people/ "friends" are following/tracking. This will add to the social media aspect of 
+the app.
+
+We will modify our notification tab to provide updates on when new music releases and 
+any other relevant information the user would like to keep a track of (new social media
+posts etc)
+
+Our profile page will be a center for the user to control settings and keep track of 
+their data such as followers etc.
+
+We will be implementing the Spotify API and other API's in order to make our app 
+completely functional. 
