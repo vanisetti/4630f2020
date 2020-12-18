@@ -57,11 +57,19 @@ The next page/tab, the favorites tab, will store your favorite artists whom you
 can stay updated on. Currently, we have about 9 artist that we chose and when you 
 click on the top three you will be taken to another page which will have all the 
 information about them along with links to their social media accounts. At the moment
-it shows the icon of the artist along with three icons for their social media pages.
+it shows the icon of the artist along with three icons for their social media pages. 
+If this app is being built on a simulator then it should take you to the respective
+social media pages if you click on the icons ( in the updated version )
 
 Moving on, the notifications tab is being developed and has a list view of example 
 notifications we will be building off of. The profile tab is also under development 
 and we expand more upon our plans for other tabs/features under next steps.
+
+( in the updated version) We have a profile page in the last/fifth tab. It consists of
+a profile picture, name and username along with an edit button that will later allow 
+you to alter the profile settings. Temporarily we have a scrolling view of the "followers"
+we will also include who the user is following and which artists they are tracking in 
+order to provide an area with a general outlook on their stats in the app.
 
 
 MATERIALS INLCUDED
